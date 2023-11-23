@@ -20,7 +20,13 @@ Below is a list of projects I've worked on over the past few years as well as wh
 
 PrivacyXPresso is a hub for privacy-conscious individuals to manage the data they share with companies and test the strength of their passwords. 
 
+<img height="auto" width="auto" alt="DataEraseX Demo" src="https://github.com/GriffinBonomo/griffinbonomo.github.io/blob/main/Images/DataEraseX.gif?raw=true">
+
 The main feature, <ins>DataEraseX</ins> allows a user to demand a company delete their user data via email in accordance with the [CCPA](https://oag.ca.gov/privacy/ccpa) and the [GDPR](https://gdpr.eu/eu-gdpr-personal-data/).<br/>
+
+
+<img height="300" width="auto" alt="Password Checker Demo" src="https://github.com/GriffinBonomo/griffinbonomo.github.io/blob/main/Images/PasswordTester.gif?raw=true">
+
 PrivacyXPresso also includes a basic password strength tester with a dictionary of over <ins>1000</ins> words. It was developed as a bonus feature.
 
 Further information about how this email works [here](https://ico.org.uk/for-the-public/your-right-to-get-your-data-deleted/#no).
