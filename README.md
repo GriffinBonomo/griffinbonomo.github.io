@@ -54,7 +54,8 @@ Second would be using the [Gmail API](https://developers.google.com/gmail/api/gu
 The intention for this game is to fuse the stealth mechanics of games like [DEADBOLT](https://store.steampowered.com/app/394970/DEADBOLT/) with the randomness and replayability of [roguelikes](https://en.wikipedia.org/wiki/Roguelike) like [The Binding of Isaac](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/).
 
 > Below is an example of a primitive level that will be fleshed out and polished in the future.
-<img height="300" width="auto" alt="Basic game level" src="https://github.com/GriffinBonomo/griffinbonomo.github.io/blob/GameLevel.png?raw=true"> 
+
+<img height="300" width="auto" alt="Basic game level" src="https://github.com/GriffinBonomo/griffinbonomo.github.io/blob/main/images/GameLevel.PNG?raw=true"> 
 
 #### Features
 
@@ -68,9 +69,9 @@ The intention for this game is to fuse the stealth mechanics of games like [DEAD
 
 - Enemy pathfinding using an implementation of the [A* Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm) is currently in development.
 
-- Improving player collision to prevent players from jittering upon running into a solid object.
+- Transitioning to the [Tiled](https://www.mapeditor.org/) map editor for creating levels.
 
-- Full player animations for each possible action.
+- Major refactor of movement and physics code for improved performance.
 
 #### What I've Learned
 
@@ -83,3 +84,13 @@ Game development is a difficult process that requires an extraordinary amount of
 - Drawing out state diagrams for complex events or processes.
 
 - Setting up a simple asset pipeline using Photoshop with custom templates, brushes, colour palettes and pixel grids matching the resolution of my sprites. 
+
+# ADD LINK TO REPO HERE
+
+### Pokemon App
+
+> This is mobile app developed in [Kotlin](https://kotlinlang.org/) using [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=CjwKCAiAjfyqBhAsEiwA-UdzJDvQgolHxVXeCMxZp0L3VlLYY0EX-Ph4dblLUKxLbZUOV83HPQ5JlhoCfLYQAvD_BwE&gclsrc=aw.ds) for my Application Development II course at John Abbott College.
+
+> Note: This app is still in development and the UI is subject to change.
+
+<img height="300" width="auto" alt="Pokemon App info screen" src="https://github.com/GriffinBonomo/griffinbonomo.github.io/blob/main/images/InfoScreen.JPG?raw=true"> 
