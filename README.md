@@ -81,7 +81,7 @@ Game development is a difficult process that requires an extraordinary amount of
 
 - Setting up a simple asset pipeline using Photoshop with custom templates, brushes, colour palettes and pixel grids matching the resolution of my sprites. 
 
-# ADD LINK TO REPO HERE
+>A link to the code can be found [here](https://github.com/GriffinBonomo/JS-WIP-Game/tree/main).
 
 ### Pokemon App
 
@@ -110,3 +110,5 @@ We use Github Actions to ensure there are no build errors on our main branch and
 - Improved UI for better readability and consistency.
 - User authentification and registration.
 - Implementing full CRUD operations for the Pokemon, Badge, User Profile and Gym data.
+
+>A link to the code can be found [here](https://github.com/williamCattrell/PokemonApp).
