@@ -1,2 +1,2 @@
 - [Portfolio](README)
-- [CV](second-page)
+- [CV](CV)

@@ -1,18 +1,14 @@
 # Griffin Bonomo-Clough
 
-## Introduction
-
-> I'm a developer currently studiyng Computer Science at John Abbott College.
- <!!ADD MORE!!>
+> I'm a developer currently studiyng Computer Science at John Abbott College. While I enjoy any type of programming-related problem solving, I am especially interested in graphics programming and optimization. 
+When I'm not working, I enjoy playing chess, photo-editing and designing sprites for games I'd like to work on in the future.
 
 ## Contact
 
-- insert email here
-- insert Github link here
+- griffinbonomo@gmail.com
+- https://github.com/GriffinBonomo
 
 ## Projects
-
-Below is a list of projects I've worked on over the past few years as well as what I learned from them.
 
 ### PrivacyXPresso
 
@@ -41,9 +37,9 @@ I worked primarily on the <b>JavaScript</b> side of things, helping teammates wi
 
 While the hackathon has ended, there are still some features I would like to add to this app.
 
-First is a better password strength tester. In reality, [dictionary attacks](https://www.techtarget.com/searchsecurity/definition/dictionary-attack) often use much more than <ins>1000</ins> words and aren't fooled by simply adding numbers to the end of a commonly used word like "password". A larger dictionary or a more sophisticated method of determining the complexity of a string would be a great improvement.
+- A better password strength tester. In reality, [dictionary attacks](https://www.techtarget.com/searchsecurity/definition/dictionary-attack) often use much more than <ins>1000</ins> words and aren't fooled by simply adding numbers to the end of a commonly used word like "password". A larger dictionary or a more sophisticated method of determining the complexity of a string would be a great improvement.
 
-Second would be using the [Gmail API](https://developers.google.com/gmail/api/guides) to send the generated email to the selected company automatically.
+- Making use of the [Gmail API](https://developers.google.com/gmail/api/guides) to send the generated email to the selected company, automatically.
 
 >A link to the code can be found [here](https://github.com/tjklint/BellGeekfest2023).
 
@@ -89,8 +85,28 @@ Game development is a difficult process that requires an extraordinary amount of
 
 ### Pokemon App
 
-> This is mobile app developed in [Kotlin](https://kotlinlang.org/) using [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=CjwKCAiAjfyqBhAsEiwA-UdzJDvQgolHxVXeCMxZp0L3VlLYY0EX-Ph4dblLUKxLbZUOV83HPQ5JlhoCfLYQAvD_BwE&gclsrc=aw.ds) for my Application Development II course at John Abbott College.
+> This is mobile app developed in [Kotlin](https://kotlinlang.org/) using [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=CjwKCAiAjfyqBhAsEiwA-UdzJDvQgolHxVXeCMxZp0L3VlLYY0EX-Ph4dblLUKxLbZUOV83HPQ5JlhoCfLYQAvD_BwE&gclsrc=aw.ds) for my Application Development II course at John Abbott College, using the [SCRUM](https://www.scrum.org/resources/what-scrum-module) methodology with sprints of approximately 1-2 weeks in length.<br>
+We use Github Actions to ensure there are no build errors on our main branch and to reinforce [CICD](https://www.synopsys.com/glossary/what-is-cicd.html#:~:text=Definition,are%20made%20frequently%20and%20reliably.). The app is hosted on Google [Firebase](https://firebase.google.com/) and each new release it tested by a range of testers. Feedback from our testers is then collected using a form, formatted into a report and then analyzed by the entire team to decide what tasks to add to our next sprint.
 
 > Note: This app is still in development and the UI is subject to change.
 
-<img height="300" width="auto" alt="Pokemon App info screen" src="https://github.com/GriffinBonomo/griffinbonomo.github.io/blob/main/images/InfoScreen.JPG?raw=true"> 
+<img height="auto" width="auto" alt="Pokemon App info screen" src="https://github.com/GriffinBonomo/griffinbonomo.github.io/blob/main/images/InfoScreen.JPG?raw=true"> 
+
+#### Features
+
+- Full navigation and routing to all pages of the app.
+- A dynamic profile page that tracks strongest and weakest elements in your Pokemon collection.
+
+<img height="auto" width="auto" alt="Pokemon App info screen" src="https://github.com/GriffinBonomo/griffinbonomo.github.io/blob/main/images/ProfileScreen.JPG?raw=true"> 
+
+- The ability to add completed Gyms from the Pokemon universe.
+- A list of all Gen-1 Pokemon and their stats.
+
+<img height="auto" width="auto" alt="Pokemon App info screen" src="https://github.com/GriffinBonomo/griffinbonomo.github.io/blob/main/images/pokedex.JPG?raw=true"> 
+
+#### Features in Development
+
+- Searching and filtering of Pokemon by name, Id and element.
+- Improved UI for better readability and consistency.
+- User authentification and registration.
+- Implementing full CRUD operations for the Pokemon, Badge, User Profile and Gym data.
