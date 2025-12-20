@@ -1,8 +1,5 @@
 backend:
-  name: github
-  repo: griffinbonomo/griffinbonomo.github.io
-  branch: main
-  auth_scope: repo
+  name: test
 
 media_folder: "assets/img/uploads"
 public_folder: "/assets/img/uploads"
