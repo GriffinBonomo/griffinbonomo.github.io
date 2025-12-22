@@ -16,7 +16,7 @@ timezone:
 
 title: Griffin's Portfolio # the main title
 
-tagline: A collection of my personal projects # it will display as the subtitle
+tagline: Software Engineering Student # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A collection of personal projects by Griffin Bonomo - Clough.
